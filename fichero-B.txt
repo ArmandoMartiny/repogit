@@ -1,1 +1,3 @@
 Contenido del fichero B
+
+Hola, te vine a modificar
